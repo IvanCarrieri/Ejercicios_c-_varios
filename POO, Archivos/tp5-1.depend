@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1684256669 source:c:\utn programación\2do cuatrimestre\programacion 2\tptipoparcial\tp5-1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"claseFecha.h"
+	"claseEmpleado.h"
+	"funciones.h"
+
+1684160281 c:\utn programación\2do cuatrimestre\programacion 2\tptipoparcial\tp5-1\clasefecha.h
+
+1684256854 c:\utn programación\2do cuatrimestre\programacion 2\tptipoparcial\tp5-1\claseempleado.h
+
+1684256958 c:\utn programación\2do cuatrimestre\programacion 2\tptipoparcial\tp5-1\funciones.h
+

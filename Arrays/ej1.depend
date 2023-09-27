@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679868935 source:c:\utn programación\2do cuatrimestre\laboratorio 2\ej1\main.cpp
+	<iostream>
+	<cstdlib>
+	"prototipos.h"
+	"funciones.h"
+
+1679869389 c:\utn programación\2do cuatrimestre\laboratorio 2\ej1\prototipos.h
+
+1679869251 c:\utn programación\2do cuatrimestre\laboratorio 2\ej1\funciones.h
+
